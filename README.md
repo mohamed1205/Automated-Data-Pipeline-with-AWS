@@ -131,5 +131,8 @@ This project demonstrates a data pipeline setup using AWS services including EC2
 5. *QuickSight Integration:*
    - Connect QuickSight to Redshift.
    - Create basic visualizations to explore the data.
+  
+     ![Untitled](https://github.com/user-attachments/assets/0ae041a6-e4b7-4b99-8338-7901aa731123)
+
 
 By following these steps, you will establish a comprehensive data pipeline integrating data extraction, processing, storage, and visualization using AWS services
