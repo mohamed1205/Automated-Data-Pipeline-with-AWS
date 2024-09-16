@@ -112,7 +112,7 @@ This project demonstrates a data pipeline setup using AWS services including EC2
    - Create basic visualizations and dashboards in QuickSight based on the dataset.
    - Note: The primary focus is on building the pipeline, so visualizations are kept minimal.
   
-          ![Untitled](https://github.com/user-attachments/assets/0ae041a6-e4b7-4b99-8338-7901aa731123)
+     ![Untitled](https://github.com/user-attachments/assets/0ae041a6-e4b7-4b99-8338-7901aa731123)
 
 ## Summary
 
